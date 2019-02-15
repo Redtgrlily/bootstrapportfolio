@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #porttext {
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
@@ -42,4 +43,32 @@ body {
 #portbut {
     background-color: #4b0c66;
     color: whitesmoke;
+=======
+#aboutdesc {
+    width: 650px;
+    float: left;
+}
+#aboutimg {
+    float: right;
+    background-color: ;
+}
+#abouttitle {
+    align-content: center;
+    font-weight: bolder;
+    font-size: 18px;
+}
+body {
+    background-image: url("../../assets/images/background.gif");
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
+nav {
+    background-color: #708090;
+    padding: 10%;
+    border: solid darkblue 2px;
+    color: whitesmoke;
+}
+html {
+    background-color: darkslategrey;
+>>>>>>> 2d0a1c93ee924d1c58436ffc8ba6cfbcc31341aa
 }
